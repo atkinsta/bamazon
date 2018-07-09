@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "CLI for simulating online stores",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/atkinsta/bamazon"
+  },
+  "keywords": [
+    "bamazon"
+  ],
+  "author": "atkinsta (Ty Atkins)",
+  "license": "ISC",
+  "dependencies": {
+    "cli-table2": "^0.2.0",
+    "inquirer": "^6.0.0",
+    "mysql": "^2.15.0"
+  }
+}
